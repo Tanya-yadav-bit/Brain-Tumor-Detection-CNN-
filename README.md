@@ -1,11 +1,5 @@
 <h1 align="center">🧠 Brain Tumor Detection using CNN</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-CNN-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-TensorFlow-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
-
 <h2>📌 Project Overview</h2>
 <p>
 This project focuses on detecting brain tumors from MRI images using a <b>Convolutional Neural Network (CNN)</b>. 
@@ -54,7 +48,7 @@ It includes data preprocessing, model training, evaluation, and advanced visuali
   <li>Evaluated using <b>accuracy metrics and validation performance</b></li>
 </ul>
 
-<img width="700" alt="Accuracy_plot" src="https://github.com/user-attachments/assets/8dcf47d3-c21e-46ac-b46b-a0fe4366db7b" />
+<img width="400" alt="Accuracy_plot" src="https://github.com/user-attachments/assets/8dcf47d3-c21e-46ac-b46b-a0fe4366db7b" />
 
 
 <hr>
@@ -66,10 +60,10 @@ It includes data preprocessing, model training, evaluation, and advanced visuali
   <li>Generated heatmaps to understand model decisions</li>
 </ul>
 
-<img width="500" alt="Feature_maps" src="https://github.com/user-attachments/assets/a73e5781-a9ef-4c6e-872b-7f5b828ebe3a" />
+<img width="400" alt="Feature_maps" src="https://github.com/user-attachments/assets/a73e5781-a9ef-4c6e-872b-7f5b828ebe3a" />
 
 <br><br>
-<img width="500" alt="Heatmap" src="https://github.com/user-attachments/assets/36f4cfc9-2ebe-4edd-825e-e35d19385f8e" />
+<img width="400" alt="Heatmap" src="https://github.com/user-attachments/assets/36f4cfc9-2ebe-4edd-825e-e35d19385f8e" />
 
 <br><br>
 <img width="300" alt="result_overlay" src="https://github.com/user-attachments/assets/02c40ca3-6b80-4cbc-8fcb-a5d45e4103ef" />
